@@ -27,7 +27,14 @@
                 target="_blank">View the code base</a></li>
 </ul>
 <h2>2. if/else Statements</h2>
-
+<h3>...</h3>
+<ul>
+    <li>Task: Build a bike rental form. The user may chose among three different types: bike(10€/day), e-bike(15€/day),
+        and pedelec(20€/day). Further, the user needs to indicate the rental length in days. As a result display the
+        user selection and the total costs for the bike rental.
+    </li>
+    <li>Example: <a href="02-statements/form.php">Bike rental form</a> </li>
+</ul>
 </body>
 </html>
 
