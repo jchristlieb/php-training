@@ -6,7 +6,7 @@
 </head>
 <body>
 <nav>
-    <strong><a href="../index.php">Home sweet home</a></strong>
+    <strong><a href="/index.php">Home sweet home</a></strong>
 </nav>
 <h1>Title</h1>
 
