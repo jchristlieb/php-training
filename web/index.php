@@ -11,13 +11,13 @@
     <li>Task: Build a form that enables a user to fill in a name and an address. Display the data when the user hits
         submit.
     </li>
-    <li>Example: <a href="01-forms/form.php">A short form with simple data processing</a></li>
+    <li>Example: <a href="01-forms/1.1 build and display/form.php">A short form with simple data processing</a></li>
     <li>Github: <a href="" target="_blank">View the code base</a></li>
 </ul>
 <h3>1.2 Convert and calculate data inputs</h3>
 <ul>
     <li>Task: Build a form that asks to enter a number. Convert the string into a number. Multiply the number with itself and display the result.</li>
-    <li>Example: <a href="01-forms/number.php">Enter a number</a></li>
+    <li>Example: <a href="01-forms/1.2 convert and calculate/number.php">Enter a number</a></li>
     <li>Github: <a href="" target="_blank">View the code base</a></li>
 </ul>
 </body>
