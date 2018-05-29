@@ -26,6 +26,8 @@
                 href="https://github.com/jchristlieb/php-training/tree/master/web/01-forms/1.2_convert_and_calculate"
                 target="_blank">View the code base</a></li>
 </ul>
+<h2>2. if/else Statements</h2>
+
 </body>
 </html>
 
