@@ -26,14 +26,23 @@
                 href="https://github.com/jchristlieb/php-training/tree/master/web/01-forms/1.2_convert_and_calculate"
                 target="_blank">View the code base</a></li>
 </ul>
-<h2>2. if/else Statements</h2>
-<h3>...</h3>
+<h2>2. Statements</h2>
+<h3>2.1 If and else</h3>
+<ul>
+    <li>Task:</li>
+    <li>Example:</li>
+    <li>GitHub:</li>
+</ul>
+<h3>2.2 Switch and case</h3>
 <ul>
     <li>Task: Build a bike rental form. The user may chose among three different types: bike(10€/day), e-bike(15€/day),
         and pedelec(20€/day). Further, the user needs to indicate the rental length in days. As a result display the
         user selection and the total costs for the bike rental.
     </li>
-    <li>Example: <a href="02-statements/form.php">Bike rental form</a> </li>
+    <li>Example: <a href="02-statements/2.2_switch_case/form.php">Bike rental form</a> </li>
+    <li>Github: <a
+                href="https://github.com/jchristlieb/php-training/tree/master/web/02-statements/2.2_switch_case"
+                target="_blank">View the code base</a></li>
 </ul>
 </body>
 </html>
