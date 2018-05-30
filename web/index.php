@@ -29,9 +29,11 @@
 <h2>2. Statements</h2>
 <h3>2.1 If and else</h3>
 <ul>
-    <li>Task:</li>
-    <li>Example:</li>
-    <li>GitHub:</li>
+    <li>Task:Design an estimation question. Evaluate the user input and provide the answer</li>
+    <li>Example:<a href="02-statements/2.1_if_else/question.php">Imagine a blank sheet of paper ...</a> </li>
+    <li>GitHub: <a
+                href="https://github.com/jchristlieb/php-training/tree/master/web/02-statements/2.1_if_else"
+                target="_blank">View the code base</a></li>
 </ul>
 <h3>2.2 Switch and case</h3>
 <ul>
