@@ -46,6 +46,32 @@
                 href="https://github.com/jchristlieb/php-training/tree/master/web/02-statements/2.2_switch_case"
                 target="_blank">View the code base</a></li>
 </ul>
+
+<h2>3. Loops</h2>
+<h3>3.1 For-Loops</h3>
+<ul>
+    <li>Task:Create a multiplication table up to 10. Each row should consist of ten numbers.</li>
+    <li>Example:<a href="03-loops/3.1_for/multiplication-table.php">Multiplication table</a> </li>
+    <li>GitHub: <a
+                href="https://github.com/jchristlieb/php-training/tree/master/web/03-loops/3.1_for"
+                target="_blank">View the code base</a></li>
+</ul>
+<h3>3.2 While-Loops</h3>
+<ul>
+    <li>Task:</li>
+    <li>Example:<a href="03-loops/...."></a> </li>
+    <li>GitHub: <a
+                href="https://github.com/jchristlieb/php-training/tree/master/web/..."
+                target="_blank">View the code base</a></li>
+</ul>
+<h3>3.1 While-do-Loops</h3>
+<ul>
+    <li>Task:</li>
+    <li>Example:<a href="03-loops/...."></a> </li>
+    <li>GitHub: <a
+                href="https://github.com/jchristlieb/php-training/tree/master/web/..."
+                target="_blank">View the code base</a></li>
+</ul>
 </body>
 </html>
 
