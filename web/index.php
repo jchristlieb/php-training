@@ -30,7 +30,7 @@
 <h3>2.1 If and else</h3>
 <ul>
     <li>Task:Design an estimation question. Evaluate the user input and provide the answer</li>
-    <li>Example:<a href="02-statements/2.1_if_else/question.php">Imagine a blank sheet of paper ...</a> </li>
+    <li>Example:<a href="02-statements/2.1_if_else/question.php">Imagine a blank sheet of paper ...</a></li>
     <li>GitHub: <a
                 href="https://github.com/jchristlieb/php-training/tree/master/web/02-statements/2.1_if_else"
                 target="_blank">View the code base</a></li>
@@ -41,7 +41,7 @@
         and pedelec(20€/day). Further, the user needs to indicate the rental length in days. As a result display the
         user selection and the total costs for the bike rental.
     </li>
-    <li>Example: <a href="02-statements/2.2_switch_case/form.php">Bike rental form</a> </li>
+    <li>Example: <a href="02-statements/2.2_switch_case/form.php">Bike rental form</a></li>
     <li>Github: <a
                 href="https://github.com/jchristlieb/php-training/tree/master/web/02-statements/2.2_switch_case"
                 target="_blank">View the code base</a></li>
@@ -51,15 +51,18 @@
 <h3>3.1 For-Loops</h3>
 <ul>
     <li>Task:Create a multiplication table up to 10. Each row should consist of ten numbers.</li>
-    <li>Example:<a href="03-loops/3.1_for/multiplication-table.php">Multiplication table</a> </li>
+    <li>Example:<a href="03-loops/3.1_for/multiplication-table.php">Multiplication table</a></li>
     <li>GitHub: <a
                 href="https://github.com/jchristlieb/php-training/tree/master/web/03-loops/3.1_for"
                 target="_blank">View the code base</a></li>
 </ul>
 <h3>3.2 While-Loops</h3>
 <ul>
-    <li>Task:</li>
-    <li>Example:<a href="03-loops/...."></a> </li>
+    <li>Task: Create a simple dice game for two players. In each round the player roll the dice once. Add the dice
+        points of each player. As soon as one player reaches 25 or more points the game is over and the player with the
+        highest points wins the game.
+    </li>
+    <li>Example:<a href="03-loops/...."></a></li>
     <li>GitHub: <a
                 href="https://github.com/jchristlieb/php-training/tree/master/web/..."
                 target="_blank">View the code base</a></li>
@@ -67,7 +70,7 @@
 <h3>3.1 While-do-Loops</h3>
 <ul>
     <li>Task:</li>
-    <li>Example:<a href="03-loops/...."></a> </li>
+    <li>Example:<a href="03-loops/...."></a></li>
     <li>GitHub: <a
                 href="https://github.com/jchristlieb/php-training/tree/master/web/..."
                 target="_blank">View the code base</a></li>
