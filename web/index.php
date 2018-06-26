@@ -62,9 +62,9 @@
         points of each player. As soon as one player reaches 25 or more points the game is over and the player with the
         highest points wins the game.
     </li>
-    <li>Example:<a href="03-loops/...."></a></li>
+    <li>Example:<a href="03-loops/3.2_while/dice-game.php"></a>Dice game</li>
     <li>GitHub: <a
-                href="https://github.com/jchristlieb/php-training/tree/master/web/..."
+                href="https://github.com/jchristlieb/php-training/tree/master/web/03-loops/3.2_while"
                 target="_blank">View the code base</a></li>
 </ul>
 <h3>3.1 While-do-Loops</h3>
