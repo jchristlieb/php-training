@@ -67,14 +67,19 @@
                 href="https://github.com/jchristlieb/php-training/tree/master/web/03-loops/3.2_while"
                 target="_blank">View the code base</a></li>
 </ul>
-<h3>3.1 While-do-Loops</h3>
+
+
+<h2>4. Functions</h2>
+<h3>4.1 Simple functions</h3>
 <ul>
     <li>Task:</li>
-    <li>Example:<a href="03-loops/...."></a></li>
+    <li>Example:<a href="04-functions/4.1_simple-functions/note.php">A hipster ipsum note</a></li>
     <li>GitHub: <a
                 href="https://github.com/jchristlieb/php-training/tree/master/web/..."
                 target="_blank">View the code base</a></li>
 </ul>
+
+
 </body>
 </html>
 
