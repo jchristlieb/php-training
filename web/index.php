@@ -70,12 +70,20 @@
 
 
 <h2>4. Functions</h2>
-<h3>4.1 Simple functions</h3>
+<h3>4.1 Basic</h3>
 <ul>
-    <li>Task:</li>
-    <li>Example:<a href="04-functions/4.1_simple-functions/note.php">A hipster ipsum note</a></li>
+    <li>Task: Write a simple function that can be used to reference the author for a text.</li>
+    <li>Example:<a href="04-functions/4.1_basic/note.php">A hipster ipsum note</a></li>
     <li>GitHub: <a
-                href="https://github.com/jchristlieb/php-training/tree/master/web/..."
+                href="https://github.com/jchristlieb/php-training/tree/master/web/04-functions/4.1_basic"
+                target="_blank">View the code base</a></li>
+</ul>
+<h3>4.2 Parameter</h3>
+<ul>
+    <li>Task: Write a simple program that calculates the square root of a given number and displays the result accordingly.</li>
+    <li>Example:<a href="04-functions/4.2_parameter/square.php">Calculate the square root.</a></li>
+    <li>GitHub: <a
+                href="https://github.com/jchristlieb/php-training/tree/master/web/04-functions/4.3_square"
                 target="_blank">View the code base</a></li>
 </ul>
 
