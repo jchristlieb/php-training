@@ -62,7 +62,7 @@
         points of each player. As soon as one player reaches 25 or more points the game is over and the player with the
         highest points wins the game.
     </li>
-    <li>Example:<a href="03-loops/3.2_while/dice-game.php"></a>Dice game</li>
+    <li>Example:<a href="03-loops/3.2_while/dice-game.php">Dice game</a></li>
     <li>GitHub: <a
                 href="https://github.com/jchristlieb/php-training/tree/master/web/03-loops/3.2_while"
                 target="_blank">View the code base</a></li>
@@ -81,9 +81,17 @@
 <h3>4.2 Parameter</h3>
 <ul>
     <li>Task: Write a simple program that calculates the square root of a given number and displays the result accordingly.</li>
-    <li>Example:<a href="04-functions/4.2_parameter/square.php">Calculate the square root.</a></li>
+    <li>Example:<a href="04-functions/4.2_single-parameter/square.php">Calculate the square root.</a></li>
     <li>GitHub: <a
-                href="https://github.com/jchristlieb/php-training/tree/master/web/04-functions/4.3_square"
+                href="https://github.com/jchristlieb/php-training/tree/master/web/04-functions/4.2_single-parameter"
+                target="_blank">View the code base</a></li>
+</ul>
+<h3>4.3 Multiple Parameter</h3>
+<ul>
+    <li>Task: Write a simple program that calculates the mean value of three given numbers</li>
+    <li>Example:<a href="04-functions/4.3_multiple-parameter/mean.php">Calculate the mean value.</a></li>
+    <li>GitHub: <a
+                href="https://github.com/jchristlieb/php-training/tree/master/web/04-functions/4.3_multiple-parameter"
                 target="_blank">View the code base</a></li>
 </ul>
 
