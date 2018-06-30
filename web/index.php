@@ -94,7 +94,14 @@
                 href="https://github.com/jchristlieb/php-training/tree/master/web/04-functions/4.3_multiple-parameter"
                 target="_blank">View the code base</a></li>
 </ul>
-
+<h3>4.4 Return value</h3>
+<ul>
+    <li>Task: Write a function bigger($a, $b) that asks for two numbers as parameters and returns the bigger value of the two inputs.</li>
+    <li>Example:<a href="04-functions/4.4_return-value/bigger.php">The bigger one</a></li>
+    <li>GitHub: <a
+                href="https://github.com/jchristlieb/php-training/tree/master/web/04-functions/4.4_return-value"
+                target="_blank">View the code base</a></li>
+</ul>
 
 </body>
 </html>
