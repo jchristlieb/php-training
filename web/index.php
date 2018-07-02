@@ -80,7 +80,9 @@
 </ul>
 <h3>4.2 Parameter</h3>
 <ul>
-    <li>Task: Write a simple program that calculates the square root of a given number and displays the result accordingly.</li>
+    <li>Task: Write a simple program that calculates the square root of a given number and displays the result
+        accordingly.
+    </li>
     <li>Example:<a href="04-functions/4.2_single-parameter/square.php">Calculate the square root.</a></li>
     <li>GitHub: <a
                 href="https://github.com/jchristlieb/php-training/tree/master/web/04-functions/4.2_single-parameter"
@@ -96,10 +98,22 @@
 </ul>
 <h3>4.4 Return value</h3>
 <ul>
-    <li>Task: Write a function bigger($a, $b) that asks for two numbers as parameters and returns the bigger value of the two inputs.</li>
+    <li>Task: Write a function bigger($a, $b) that asks for two numbers as parameters and returns the bigger value of
+        the two inputs.
+    </li>
     <li>Example:<a href="04-functions/4.4_return-value/bigger.php">The bigger one</a></li>
     <li>GitHub: <a
                 href="https://github.com/jchristlieb/php-training/tree/master/web/04-functions/4.4_return-value"
+                target="_blank">View the code base</a></li>
+</ul>
+<h3>4.5 Reference</h3>
+<ul>
+    <li>Task: Write a function calc() with two input parameters. It should return two results, the sum and the product
+        of the two inputs. To transfer the variables use the <strong>call-by-reference</strong>.
+    </li>
+    <li>Example:<a href="04-functions/4.5_reference/calc.php">Calc the sum and product of $x and $y.</a></li>
+    <li>GitHub: <a
+                href="https://github.com/jchristlieb/php-training/tree/master/web/04-functions/4.5_reference"
                 target="_blank">View the code base</a></li>
 </ul>
 
