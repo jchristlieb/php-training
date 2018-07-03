@@ -116,7 +116,17 @@
                 href="https://github.com/jchristlieb/php-training/tree/master/web/04-functions/4.5_reference"
                 target="_blank">View the code base</a></li>
 </ul>
-
+<h2>5. Arrays</h2>
+<h3>5.1 Numeric</h3>
+<ul>
+    <li>Task: Save the name of five inspiring people with their nationality within two arrays. One for the names and one
+        for the nationality. Print those arrays next to each other with a for-loop.
+    </li>
+    <li>Example:<a href="05-arrays/5.1_numeric/cyclists.php">5 great cyclists</a></li>
+    <li>GitHub: <a
+                href="https://github.com/jchristlieb/php-training/tree/master/web/05-arrays/5.1_numeric/"
+                target="_blank">View the code base</a></li>
+</ul>
 </body>
 </html>
 
