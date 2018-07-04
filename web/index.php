@@ -127,6 +127,16 @@
                 href="https://github.com/jchristlieb/php-training/tree/master/web/05-arrays/5.1_numeric/"
                 target="_blank">View the code base</a></li>
 </ul>
+<h3>5.2 Associative</h3>
+<ul>
+    <li>Task: Build an associative array with 5 random chosen names as keys and an random picked age as value. Print the
+        keys and values in a table.
+    </li>
+    <li>Example:<a href="05-arrays/5.2_associative/names.php">5 people and their age</a></li>
+    <li>GitHub: <a
+                href="https://github.com/jchristlieb/php-training/tree/master/web/05-arrays/5.2_associative/"
+                target="_blank">View the code base</a></li>
+</ul>
 </body>
 </html>
 
