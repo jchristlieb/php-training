@@ -1,3 +1,14 @@
+<?php
+
+// require the composer autoloader
+require_once dirname(__DIR__) . '/vendor/autoload.php';
+
+
+?>
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
