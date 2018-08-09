@@ -1,2 +1,6 @@
 # Application
-web/00-practice/*
+!web/.htaccess
+gitweb/00-practice/*
+.env
+.idea
+/vendor
