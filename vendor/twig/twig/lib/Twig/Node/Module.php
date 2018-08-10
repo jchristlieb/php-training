@@ -153,7 +153,7 @@ class Twig_Node_Module extends Twig_Node
     protected function compileConstructor(Twig_Compiler $compiler)
     {
         $compiler
-            ->write("public function __construct(Twig_Environment \$env)\n", "{\n")
+            ->write("web function __construct(Twig_Environment \$env)\n", "{\n")
             ->indent()
             ->subcompile($this->getNode('constructor_start'))
             ->write("parent::__construct(\$env);\n\n")
@@ -338,7 +338,7 @@ class Twig_Node_Module extends Twig_Node
     protected function compileGetTemplateName(Twig_Compiler $compiler)
     {
         $compiler
-            ->write("public function getTemplateName()\n", "{\n")
+            ->write("web function getTemplateName()\n", "{\n")
             ->indent()
             ->write('return ')
             ->repr($this->source->getName())
@@ -392,7 +392,7 @@ class Twig_Node_Module extends Twig_Node
         }
 
         $compiler
-            ->write("public function isTraitable()\n", "{\n")
+            ->write("web function isTraitable()\n", "{\n")
             ->indent()
             ->write(sprintf("return %s;\n", $traitable ? 'true' : 'false'))
             ->outdent()
@@ -403,7 +403,7 @@ class Twig_Node_Module extends Twig_Node
     protected function compileDebugInfo(Twig_Compiler $compiler)
     {
         $compiler
-            ->write("public function getDebugInfo()\n", "{\n")
+            ->write("web function getDebugInfo()\n", "{\n")
             ->indent()
             ->write(sprintf("return %s;\n", str_replace("\n", '', var_export(array_reverse($compiler->getDebugInfo(), true), true))))
             ->outdent()
@@ -414,7 +414,7 @@ class Twig_Node_Module extends Twig_Node
     protected function compileGetSourceContext(Twig_Compiler $compiler)
     {
         $compiler
-            ->write("public function getSourceContext()\n", "{\n")
+            ->write("web function getSourceContext()\n", "{\n")
             ->indent()
             ->write('return new Twig_Source(')
             ->string($compiler->getEnvironment()->isDebug() ? $this->source->getCode() : '')

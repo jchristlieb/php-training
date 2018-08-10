@@ -28,7 +28,7 @@ class Twig_Tests_Node_BlockTest extends Twig_Test_NodeTestCase
         return array(
             array($node, <<<EOF
 // line 1
-public function block_foo(\$context, array \$blocks = array())
+web function block_foo(\$context, array \$blocks = array())
 {
     echo "foo";
 }

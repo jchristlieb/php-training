@@ -1602,7 +1602,7 @@ function twig_get_attribute(Twig_Environment $env, Twig_Source $source, $object,
             return;
         }
 
-        throw new Twig_Error_Runtime(sprintf('Neither the property "%1$s" nor one of the methods "%1$s()", "get%1$s()"/"is%1$s()"/"has%1$s()" or "__call()" exist and have public access in class "%2$s".', $item, $class), -1, $source);
+        throw new Twig_Error_Runtime(sprintf('Neither the property "%1$s" nor one of the methods "%1$s()", "get%1$s()"/"is%1$s()"/"has%1$s()" or "__call()" exist and have web access in class "%2$s".', $item, $class), -1, $source);
     }
 
     if ($isDefinedTest) {

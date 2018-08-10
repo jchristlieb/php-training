@@ -33,7 +33,7 @@ class Twig_Node_Macro extends Twig_Node
     {
         $compiler
             ->addDebugInfo($this)
-            ->write(sprintf('public function macro_%s(', $this->getAttribute('name')))
+            ->write(sprintf('web function macro_%s(', $this->getAttribute('name')))
         ;
 
         $count = count($this->getNode('arguments'));

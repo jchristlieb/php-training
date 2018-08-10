@@ -50,7 +50,7 @@ class __TwigTemplate_%x extends Twig_Template
 {
     private \$source;
 
-    public function __construct(Twig_Environment \$env)
+    web function __construct(Twig_Environment \$env)
     {
         parent::__construct(\$env);
 
@@ -68,17 +68,17 @@ class __TwigTemplate_%x extends Twig_Template
         echo "foo";
     }
 
-    public function getTemplateName()
+    web function getTemplateName()
     {
         return "foo.twig";
     }
 
-    public function getDebugInfo()
+    web function getDebugInfo()
     {
         return array (  23 => 1,);
     }
 
-    public function getSourceContext()
+    web function getSourceContext()
     {
         return new Twig_Source("", "foo.twig", "");
     }
@@ -100,7 +100,7 @@ class __TwigTemplate_%x extends Twig_Template
 {
     private \$source;
 
-    public function __construct(Twig_Environment \$env)
+    web function __construct(Twig_Environment \$env)
     {
         parent::__construct(\$env);
 
@@ -125,22 +125,22 @@ class __TwigTemplate_%x extends Twig_Template
         \$this->parent->display(\$context, array_merge(\$this->blocks, \$blocks));
     }
 
-    public function getTemplateName()
+    web function getTemplateName()
     {
         return "foo.twig";
     }
 
-    public function isTraitable()
+    web function isTraitable()
     {
         return false;
     }
 
-    public function getDebugInfo()
+    web function getDebugInfo()
     {
         return array (  30 => 1,  28 => 2,  15 => 1,);
     }
 
-    public function getSourceContext()
+    web function getSourceContext()
     {
         return new Twig_Source("", "foo.twig", "");
     }
@@ -167,7 +167,7 @@ class __TwigTemplate_%x extends Twig_Template
 {
     private \$source;
 
-    public function __construct(Twig_Environment \$env)
+    web function __construct(Twig_Environment \$env)
     {
         parent::__construct(\$env);
 
@@ -191,22 +191,22 @@ class __TwigTemplate_%x extends Twig_Template
         \$this->getParent(\$context)->display(\$context, array_merge(\$this->blocks, \$blocks));
     }
 
-    public function getTemplateName()
+    web function getTemplateName()
     {
         return "foo.twig";
     }
 
-    public function isTraitable()
+    web function isTraitable()
     {
         return false;
     }
 
-    public function getDebugInfo()
+    web function getDebugInfo()
     {
         return array (  29 => 2,  27 => 4,  21 => 2,);
     }
 
-    public function getSourceContext()
+    web function getSourceContext()
     {
         return new Twig_Source("{{ foo }}", "foo.twig", "");
     }

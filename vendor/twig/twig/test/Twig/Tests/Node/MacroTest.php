@@ -34,7 +34,7 @@ class Twig_Tests_Node_MacroTest extends Twig_Test_NodeTestCase
         return array(
             array($node, <<<EOF
 // line 1
-public function macro_foo(\$__foo__ = null, \$__bar__ = "Foo", ...\$__varargs__)
+web function macro_foo(\$__foo__ = null, \$__bar__ = "Foo", ...\$__varargs__)
 {
     \$context = \$this->env->mergeGlobals(array(
         "foo" => \$__foo__,

@@ -5,15 +5,27 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
+    "autoprefixer": "^9.1.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
     "bootstrap": "^4.1.3",
+    "css-loader": "^1.0.0",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "html-webpack-plugin": "^3.2.0",
     "jquery": "^3.3.1",
+    "node-sass": "^4.9.3",
     "popper.js": "^1.14.4",
+    "postcss-loader": "^3.0.0",
+    "precss": "^3.1.2",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.22.1",
     "webpack": "^4.16.5",
     "webpack-cli": "^3.1.0"
   },
   "scripts": {
-    "dev": "webpack -d --watch",
-    "prod": "webpack -p"
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
